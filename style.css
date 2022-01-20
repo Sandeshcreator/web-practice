@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0; 
+    
+}
+.p1{
+     margin-top: -22px;
+    background-color: green;
+    height: 200px;
+}
+.p2{
+    margin-top: -22px;    
+    background-color: red;
+    height: 360px;
+}
+.p3{
+    margin-top: -22px;
+    background-color: green;
+    height: 200px;
+}
