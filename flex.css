@@ -1,0 +1,42 @@
+body{
+	margin:0px;
+	padding:0px;
+	 
+}
+h4{
+	 
+	margin:20px;
+}
+	
+.header{
+	display:block;
+	background-color:gray;
+	height:200px;
+	margin-top: -21px;
+}
+.middle{
+	display:flex;
+}
+.class1{
+	display:block;
+	background-color:red;
+	float:left;
+	height:400px;
+	width:50%;
+	 
+}
+.class2{
+	display:block;
+	background-color:yellow;
+	float:right;
+	height:400px;
+	 
+	width:50%;
+}
+.footer{
+	display:block;
+	background-color:gray;
+	clear:both;
+	height:200px;
+	
+}

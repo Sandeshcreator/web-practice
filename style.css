@@ -1,20 +1,27 @@
 body{
     margin: 0;
     padding: 0; 
+    font-size: 20px;
     
 }
 .p1{
-     margin-top: -22px;
-    background-color: green;
-    height: 200px;
+      
+    background-color: green;     
+    text-align: center;
+    padding:3%;
 }
 .p2{
-    margin-top: -22px;    
+     
+       
     background-color: red;
-    height: 360px;
+    padding:3%;
+
 }
 .p3{
-    margin-top: -22px;
+    
     background-color: green;
-    height: 200px;
+    padding:3%;
+    text-align: center;
+   
+
 }
